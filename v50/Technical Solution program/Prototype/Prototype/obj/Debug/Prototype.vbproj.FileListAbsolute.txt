@@ -1,0 +1,30 @@
+C:\Folder\Visual Studio\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Folder\Visual Studio\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Folder\Visual Studio\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Folder\Visual Studio\Prototype\Prototype\bin\Debug\Prototype.xml
+C:\Folder\Visual Studio\Prototype\Prototype\obj\Debug\Prototype.vbprojAssemblyReference.cache
+C:\Folder\Visual Studio\Prototype\Prototype\obj\Debug\Prototype.Resources.resources
+C:\Folder\Visual Studio\Prototype\Prototype\obj\Debug\Prototype.vbproj.GenerateResource.cache
+C:\Folder\Visual Studio\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Folder\Visual Studio\Prototype\Prototype\obj\Debug\Prototype.xml
+C:\Folder\Visual Studio\Prototype\Prototype\obj\Debug\Prototype.pdb
+C:\Users\Moonlight\Downloads\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.vbprojAssemblyReference.cache
+C:\Users\Moonlight\Downloads\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.Resources.resources
+C:\Users\Moonlight\Downloads\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.vbproj.GenerateResource.cache
+C:\Users\Moonlight\Downloads\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\Moonlight\Downloads\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.xml
+C:\Users\Moonlight\Downloads\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.pdb
+C:\Users\Moonlight\Downloads\Prototype v3\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Moonlight\Downloads\Prototype v3\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\Moonlight\Downloads\Prototype v3\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Moonlight\Downloads\Prototype v3\Prototype\Prototype\bin\Debug\Prototype.xml
+C:\Folder\Visual Studio\Technical Solution\Prototype v3\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Folder\Visual Studio\Technical Solution\Prototype v3\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Folder\Visual Studio\Technical Solution\Prototype v3\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Folder\Visual Studio\Technical Solution\Prototype v3\Prototype\Prototype\bin\Debug\Prototype.xml
+C:\Folder\Visual Studio\Technical Solution\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.vbprojAssemblyReference.cache
+C:\Folder\Visual Studio\Technical Solution\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.Resources.resources
+C:\Folder\Visual Studio\Technical Solution\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.vbproj.GenerateResource.cache
+C:\Folder\Visual Studio\Technical Solution\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Folder\Visual Studio\Technical Solution\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.xml
+C:\Folder\Visual Studio\Technical Solution\Prototype v3\Prototype\Prototype\obj\Debug\Prototype.pdb
